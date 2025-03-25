@@ -26,7 +26,7 @@ const Navigation = () => {
 
   const navLinks = [
     { name: "Home", href: "/" },
-    { name: "Rooms & Suites", href: "/rooms" },
+    { name: "chinmay & Suites", href: "/rooms" },
     { name: "Dining", href: "/dining" },
     { name: "Offers", href: "/offers" },
   ]
